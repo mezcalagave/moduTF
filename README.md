@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 4th Code Peer Review Templete
 - 코더 : 이영빈, 허남철
-- 리뷰어 : 
+- 리뷰어 : 조웅제
 
 
 # PRT(PeerReviewTemplate) 
